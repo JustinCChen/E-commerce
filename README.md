@@ -9,7 +9,7 @@ This application will allow users to view, add, edit, and delete categories, pro
 
 Demo
 
-
+![me](https://github.com/JustinCChen/E-commerce/blob/main/Assets/Demo.gif)
 
 License
 N/A
